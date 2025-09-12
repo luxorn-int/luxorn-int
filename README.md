@@ -30,6 +30,7 @@ Hi there! I'm Alexey Vinogradov, a Desktop Programmer from Russia.
 
 *   **Description:** A small pet project during my student years. In it, my classmates and I studied the basics of network programming and wrote a server-client application (there was also an idea about PTP). The main idea was to transfer files and messages between the server and the client.
 *   **Tech Stack:** C/C++, bash, CMake, boost, WinSocks (for compare task difficult with boost).
+*   **Link:** [TCP_Client_Server](https://github.com/luxorn-int/TCP_Client_Server)
 ---
   ### **Android Game - SUDOKU**
 *   **Description:** The project was intended as a 9-by-9 field generator, taking into account all the rules for filling in a Sudoku game with a future implementation of a graphical system for field rendering. The target platform is android devices, again using NDK+ JNI. However, the project was never completed. Although, in general, the project was quite interesting for studying and implementing backtracing and optimizing number generation.
@@ -38,3 +39,4 @@ Hi there! I'm Alexey Vinogradov, a Desktop Programmer from Russia.
 
 ## Work Experience: 
 * I worked for 8 months with the development team: Desktop + embedded, where I worked on Desktop programming for the Arm64 architecture. While working on the project, we actively used the QT framework. There were also many interesting tasks related to the interaction of our Arm64 device with other devices through our data transfer protocol.
+
