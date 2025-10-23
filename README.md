@@ -14,7 +14,7 @@ Hi there! I'm Alexey Vinogradov, a Desktop Programmer from Russia.
 *   **Tools:** Git, CMake, Gradle, ninja, gdb, NDK and JNI
 *   **IDEs:** CLion, Visual Studio, VS Code, QT Creator, Android Studio
 *   **Programming paradigms:** OOP, SOLID, COP, EDP, DOP
-*   **Compilers:** Clang, gcc/g++, cl (visual studio), javac
+*   **Compilers:** LLVM Clang, MinGW gcc/g++, MSVC, javac
 
 ## Projects 
 
@@ -34,10 +34,12 @@ Hi there! I'm Alexey Vinogradov, a Desktop Programmer from Russia.
 ---
   ### **Android Game - SUDOKU**
 *   **Description:** The project was intended as a 9-by-9 field generator, taking into account all the rules for filling in a Sudoku game with a future implementation of a graphical system for field rendering. The target platform is android devices, again using NDK+ JNI. However, the project was never completed. Although, in general, the project was quite interesting for studying and implementing backtracing and optimizing number generation.
-*  **NOT interesting facts:** The team split up without finishing the project...(((
+*   **NOT interesting facts:** The team split up without finishing the project...(((
 *   **Tech Stack:** C/C++, Lua, bash(as dev build scripts), CMake, Java, JNI + NDK
+*   **Link:** [SUDOKU](https://github.com/luxorn-int/Android-SUDOKU)
 
 ## Work Experience: 
 * I worked for 8 months with the development team: Desktop + embedded, where I worked on Desktop programming for the Arm64 architecture. While working on the project, we actively used the QT framework. There were also many interesting tasks related to the interaction of our Arm64 device with other devices through our data transfer protocol.
+
 
 
