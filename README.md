@@ -3,7 +3,7 @@
 Hi there! I'm Alexey Vinogradov, a Desktop Programmer from Russia.
 
 *   🔭 I'm currently working on **M-Engine - MultiCompoennt 2D/3D Graphical Editor**
-*   🌱 I'm always learning new things, like **OpenCV** and **OpenGL**
+*   🌱 I'm always learning new things, like **OpenCV**, **OpenGL** and OpenCL
 *   🤝 I'm looking to collaborate on projects related to **[Microsoft terminal](https://github.com/microsoft/terminal)**. I'm interested in a recent update where hardware rendering was added.
 *   📫 How to reach me: **Luxorn_int@outlook.com**
 
@@ -40,6 +40,7 @@ Hi there! I'm Alexey Vinogradov, a Desktop Programmer from Russia.
 
 ## Work Experience: 
 * I worked for 8 months with the development team: Desktop + embedded, where I worked on Desktop programming for the Arm64 architecture. While working on the project, we actively used the QT framework. There were also many interesting tasks related to the interaction of our Arm64 device with other devices through our data transfer protocol.
+
 
 
 
